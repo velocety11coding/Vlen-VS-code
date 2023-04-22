@@ -1,0 +1,30 @@
+img{
+    margin-left: 25px;
+    border-radius: 15px;
+}
+body{
+    background-color: #495159;
+}
+H1{
+    margin-left: 25px;
+}
+.firsttext{
+    width: 340px;
+    margin-left: 500px;
+}
+.songinfo{
+    text-align: center;
+}
+.secondtext{
+    width: 340px;
+    margin-left: 500px;
+}
+.songtext{
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    border: solid black;
+    border-width: 5px;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+}

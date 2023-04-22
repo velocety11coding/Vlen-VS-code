@@ -1,0 +1,23 @@
+.box{
+    width: 200px;
+    height: 500px;
+    overflow: hidden;
+    background-color: red;
+}
+img{
+    width: 300px;
+}
+.box1{
+    width: 400px;
+    height: 200px;
+    border: 2px solid green;
+    overflow: auto;
+}
+.box2{
+    width: 300px;
+    height: fit-content;
+    border: 2px red solid;
+    margin: 40px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
